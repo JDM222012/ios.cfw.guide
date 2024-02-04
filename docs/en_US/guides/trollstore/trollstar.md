@@ -54,7 +54,7 @@ This method may take several tries in order to work successfully.
 :::
 
 1. Open TrollStar
-1. Tap `Click here to start!`
+1. Tap `kopen`
     - If the device reboots, wait a few minutes, then try again
 1. Tap `Install TrollStore Helper to Tips`
 1. Tap `Respring to Apply`
